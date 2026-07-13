@@ -2,6 +2,8 @@
 
 A Max/MSP patch implementing real-time IIR filters for low-latency filtering and differentiation of motion capture data.
 
+![screenshot](screen-shot.png)
+
 ## About
 
 In this Max/MSP patch we have implemented a range of real-time IIR filters applicable for motion controllers, more specifically, low-pass filters and low-pass differentiators of degree 1 and 2. The latter can be used to extract velocity and acceleration data directly from position data. All filters have a group delay of 2 samples or less and have better low-delay performance than what currently established filter design methods can create.
