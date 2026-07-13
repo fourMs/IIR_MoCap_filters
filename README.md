@@ -2,7 +2,7 @@
 
 A Max/MSP patch implementing real-time IIR filters for low-latency filtering and differentiation of motion capture data.
 
-![screenshot](screen-shot.png)
+![screenshot](screen-shot-.png)
 
 ## About
 
